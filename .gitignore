@@ -1,0 +1,9 @@
+backend/.env
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/uploads/
+backend/*.pt
+backend/test_visualscout.db
+*.pyc
