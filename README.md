@@ -2,6 +2,12 @@
 
 A shopkeeper photographs a shelf. YOLOv8 counts bottles, cups, books, and fruit. If a counted item is under its minimum, the dashboard shows a low-stock alert.
 
+<p>
+  <img src="docs/login.jpg" width="220" alt="VisualScout login" />
+  <img src="docs/dashboard.jpg" width="220" alt="Low stock dashboard" />
+  <img src="docs/scan.jpg" width="220" alt="Shelf photo with detection boxes" />
+</p>
+
 ## Run the API
 
 ```bash
